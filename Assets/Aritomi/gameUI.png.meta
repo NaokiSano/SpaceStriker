@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 75cf1f324f3bbe34aa2f504f587ee543
+timeCreated: 1453682712
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Frame
+    21300002: LeftButton_1
+    21300004: gameUI_2
+    21300006: BottomButton_1
+    21300008: TopButton_1
+    21300010: RightButton_1
+    21300012: LeftButton_2
+    21300014: BottomButton_2
+    21300016: gameUI_0
+    21300018: gameUI_1
+    21300020: Text_Charge
+    21300022: PlayerHP_Green
+    21300024: PlayerHP_Red
+    21300026: gameUI_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Frame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 1280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+    - name: LeftButton_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 208
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BottomButton_1
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 288
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TopButton_1
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 112
+        width: 288
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightButton_1
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 208
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftButton_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 208
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BottomButton_2
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 317
+        width: 288
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameUI_0
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 432
+        width: 288
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameUI_1
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 318
+        width: 208
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_Charge
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 480
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerHP_Green
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 544
+        height: 544
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerHP_Red
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1280
+        width: 544
+        height: 544
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameUI_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 768
+        width: 480
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gameUI_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 480
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
